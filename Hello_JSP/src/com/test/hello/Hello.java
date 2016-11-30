@@ -9,5 +9,8 @@ public class Hello {
 		// 123456:hotfix edit by Cha
 		System.out.println("hotfix edit/modify");
 		// 123456:end
+		
+		// 369369:origin/master edit by Cha
+		System.out.println("Github adit!");
 	}
 }
